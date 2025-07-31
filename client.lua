@@ -1,0 +1,5 @@
+AddEventHandler("playerSpawned", function()
+    print("[GTA NEW] - Loading Screen Off ")
+    ShutdownLoadingScreen()
+    ShutdownLoadingScreenNui()
+end)
