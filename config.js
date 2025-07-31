@@ -21,7 +21,7 @@ const desc = "Serveur FiveM RP avec scripts sur-mesure, maps exclusives, véhicu
 
 // Social media
 const discord = "https://discord.gg/gtaworldrp"  
-const instagram = "	"
+const instagram = ""
 const youtube = "" 		
 const twitter = "" 		
 const tiktok = ""  		
