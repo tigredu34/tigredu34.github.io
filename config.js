@@ -8,7 +8,7 @@ const showPlayersList = true
 
 
 // gold
-const theme = "gold"
+const theme = "purple"
 
 const enableWinterUpdate = false
 
